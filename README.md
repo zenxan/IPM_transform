@@ -7,12 +7,12 @@
 
 **Images:** 
 
-### 原图像
+原图像
 
 <a target="_blank"><img src="https://img-blog.csdnimg.cn/fe695fee9ba04b9d9eb71e2e61024bbc.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBARGFfd2Fu,size_20,color_FFFFFF,t_70,g_se,x_16" 
 alt="MAV platform" width="50%" height="50%" border="10" /></a>
 
-### 处理结果
+处理结果
 
 <a target="_blank"><img src="https://img-blog.csdnimg.cn/067d05665cc743c0a7d089513334a16e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBARGFfd2Fu,size_20,color_FFFFFF,t_70,g_se,x_16" 
 alt="MAV platform" width="30%" height="30%" border="10" /></a>
